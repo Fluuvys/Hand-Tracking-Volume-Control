@@ -45,5 +45,5 @@ A Python-based project to control system volume using real-time hand tracking an
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/Hand-Tracking-Volume-Control.git
+   git clone [https://github.com/Fluuvys/Hand-Tracking-Volume-Control.git]
    cd Hand-Tracking-Volume-Control
